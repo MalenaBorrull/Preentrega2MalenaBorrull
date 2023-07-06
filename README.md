@@ -4,4 +4,4 @@ Hola!! Acá realizo mi entrega numero 2. Los textos están rebeldes, no se cuál
 link a repositorio: https://github.com/MalenaBorrull/Preentrega2MalenaBorrull
 
 
-link a pages: 
+link a pages: https://malenaborrull.github.io/Preentrega2MalenaBorrull/
