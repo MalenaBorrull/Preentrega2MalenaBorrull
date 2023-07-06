@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+*{font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0
+    }
+
+h1{
+    font-size: 50px;
+    color: #2d2e83;
+    text-align: center;
+} 
+
+h2{
+    font-size: 40px;
+    color: #2680ff;
+    text-align: center;
+} 
+
+p{
+    font-size: 30px;
+    line-height: 1.2;
+    text-align: center;
+} 
+
+
+body {
+    background-image: url(../imagen/fondo\ body.jpg);
+    background-repeat: repeat; 
+  }
+
+.navbs{
+    background-color: #2d2e83;
+    color: white;
+    font-size: 40px;
+    list-style: none;
+} 
+
+
+.navbs img{
+    width: 150px;
+} 
+
+#navbs a{
+    color: white;
+    list-style: none;
+} 
+
+.card{
+    margin: 15px;
+    border: 8px #2d2e83;
+    text-align: center;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .card-body  {
+    align-items: center;
+    justify-content: center;
+    max-width: 50%;
+    height: auto;
+    border: 4px #2d2e83;
+  }
+
+
+header img{
+    width: 100%;
+}
+
+footer{
+        list-style: none;
+        background-color: #2d2e83;
+        padding: 15px 30px;
+        font-size: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        
+    } 
+
+footer ul li a{
+        list-style: none;
+        text-decoration: none;
+        color: white;
+    }
+
+    footer li a{
+        list-style: none;
+        text-decoration: none;
+        color: white;
+    }
+
+footer img{
+    width: 50px;
+}
+
+footer ul{
+    list-style: none;
+    display: inline-block;
+}
+
+
+
+.img-size{
+    width: 50%;
+}
+
+
